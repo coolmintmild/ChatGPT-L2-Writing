@@ -1,1 +1,1 @@
-# ChatGPT as a L2 Writing Assistant Tool: A Critical Exploration into its Application in Foreign Language Writing Classrooms.
+# ChatGPT as a Tool in EFL Writing: An Analysis of Students Usage and Perceptions
