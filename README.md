@@ -8,22 +8,22 @@ Experience with ChatGPT Before the Class (Assignment)
 3. I have used ChatGPT to assist with English writing before completing this assignment. (나는 본 과제를 수행하기 이전에 영어 글쓰기의 도움을 받기 위해 사용한 적이 있다.)
 4. I was aware of how to use ChatGPT before completing this assignment. (나는 본 과제를 수행하기 이전에 ChatGPT의 사용방법을 알고 있었다.)
 5. I was aware of the limitations of ChatGPT before completing this assignment. (나는 본 과제를 수행하기 이전에 ChatGPT의 문제점을 알고 있었다.)
-- 5-1. I was aware of the hallucination phenomenon where ChatGPT provides false information as fact. (나는 ChatGPT가 거짓 정보를 사실인 것처럼 제공하는 현상(hallucination)을 알고 있었다.)
-- 5-2. I was aware that ChatGPT has incomplete linguistic knowledge (e.g., does not fully understand sentence structure). (나는 ChatGPT가 불완전한 언어적 지식(문장구조를 정확하게 이해하고 있는 것은 아님)을 가지고 있다는 것을 알고 있었다.)
+  5-1. I was aware of the hallucination phenomenon where ChatGPT provides false information as fact. (나는 ChatGPT가 거짓 정보를 사실인 것처럼 제공하는 현상(hallucination)을 알고 있었다.)
+  5-2. I was aware that ChatGPT has incomplete linguistic knowledge (e.g., does not fully understand sentence structure). (나는 ChatGPT가 불완전한 언어적 지식(문장구조를 정확하게 이해하고 있는 것은 아님)을 가지고 있다는 것을 알고 있었다.)
 6. I have received other technological assistance for English writing before completing this assignment (e.g., Google Translate, Papago, Grammarly, Quillbot). (나는 본 과제를 수행하기 이전에 영어 글쓰기를 위해서 다른 기술적 도움을 받은 적이 있다. (구글번역, 파파고, Grammarly, Quillbot 등))
-- 6-1. If you have received such assistance, which tools did you use? (만약 받은 적이 있다면, 어떤 것의 도움을 받았는가?)
+  6-1. If you have received such assistance, which tools did you use? (만약 받은 적이 있다면, 어떤 것의 도움을 받았는가?)
 
 Experience with ChatGPT During the Assignment
 
 1. ChatGPT is easy to use. (ChatGPT의 사용 방법은 쉽다.)
 2. I learned a lot about non-linguistic knowledge through using ChatGPT. (ChatGPT의 사용 과정에서 (언어외의) 지식적으로 배우는 것이 많다.)
 3. I learned a lot about English linguistically through using ChatGPT. (ChatGPT의 사용 과정에서 영어에 관해 언어적으로 배우는 것이 많다.)
-4. I primarily used ChatGPT for the following writing process. (나는 주로 글쓰기에서 다음의 과정을 위해 ChatGPT를 사용하였다.)
-- 4-1. Brainstorming (아이디어 생성(brainstorming))
-- 4-2. Outlining (개요 작성(outline))
-- 4-3. Drafting (문장/문단 쓰기 (draft))
-- 4-4. Revision (퇴고 (revision))
-- 4-5. Evaluation (평가 (evaluation))
+4. I primarily used ChatGPT for the following writing process. (나는 주로 글쓰기에서 다음의 과정을 위해 ChatGPT를 사용하였다.)  
+  4-1. Brainstorming (아이디어 생성(brainstorming))
+  4-2. Outlining (개요 작성(outline))
+  4-3. Drafting (문장/문단 쓰기 (draft))
+  4-4. Revision (퇴고 (revision))
+  4-5. Evaluation (평가 (evaluation))
 
 Evaluation of ChatGPT After Completing the Assignment
 
