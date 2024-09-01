@@ -1,5 +1,5 @@
 # ChatGPT as a Tool in EFL Writing: An Analysis of Students Usage and Perceptions
-APPENDIX: Survey question 
+**APPENDIX A: Survey question**
 
 **(English Translation)**
 
@@ -146,3 +146,22 @@ APPENDIX: Survey question
     - (그렇지 않다) 1 2 3 4 5 (그렇다)
 15. 나는 영어 글쓰기의 보조 도구로서 ChatGPT의 성능에 대해서 다음과 같이 평가한다.
     - (전혀 좋지 않다) 1 2 3 4 5 (매우 좋다)
+<br/>
+
+
+**APPENDIX B: Examples of Prompts**
+
+(1) Pre-writing stage<br/>
+-“I want to write an essay about climate change. Can you help me brainstorm some main ideas?”<br/>
+-“I think ocean acidification and its impact on coral reefs sounds intriguing. Can you provide more details?”<br/>
+-“I have my main idea about the impact of climate change on marine life, focusing on coral reefs. What’s the best way to structure my essay on this topic?”<br/>
+
+(2) Drafting stage<br/>
+-“I want to say that climate change affects many animals, but I feel my sentence is too simple. How can I make it more impactful?”<br/>
+-“Is this sentence correct: ‘She don’t like going to the park.’?”<br/>
+-“I keep using the word ‘important.’ Can you help me find another word that might fit better in the context of emphasizing the significance of preserving the environment?”<br/>
+
+(3) Revision stage<br/>
+-“I wrote, ‘Despite its popularity, many critiques argue against its feasibility.’ Does this sentence sound clear?”<br/>
+-“Does this paragraph clearly support my thesis?”<br/>
+-“Is my conclusion compelling and conclusive?”
